@@ -1,0 +1,3 @@
+/home/hortense/MYREPOSITORIES/YEP/cross_platform/CMakeFiles/rebuild_cache.dir
+/home/hortense/MYREPOSITORIES/YEP/cross_platform/CMakeFiles/hello.dir
+/home/hortense/MYREPOSITORIES/YEP/cross_platform/CMakeFiles/edit_cache.dir
